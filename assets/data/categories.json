@@ -1,0 +1,37 @@
+[{
+    "_id": {
+      "$oid": "64be7ef556d680d996abc2ca"
+    },
+    "name": "Top Clothing",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "64be7ef956d680d996abc2cc"
+    },
+    "name": "Bottom Clothing",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "64da9bc3446857914ea60ae7"
+    },
+    "name": "Dress",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "64da9c19446857914ea60ae8"
+    },
+    "name": "Suit",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "64da9c9d446857914ea60ae9"
+    },
+    "name": "Accessory",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "64da9cd8446857914ea60aea"
+    },
+    "name": "Shoes",
+    "__v": 0
+  }]

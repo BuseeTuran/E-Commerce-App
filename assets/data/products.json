@@ -1,0 +1,52 @@
+[{
+    "_id": {
+      "$oid": "64be890cc24f08574d346b60"
+    },
+    "image": "https://images.pexels.com/photos/4937452/pexels-photo-4937452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "brand": "Zara",
+    "price": 989,
+    "rating": 1,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "Shorts jacket suit",
+    "description": "The most hard FIFA ever",
+    "category": {
+      "$oid": "64be7ef556d680d996abc2ca"
+    },
+    "countInStock": 25,
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "64be891d1f029b4ea1676f53"
+    },
+    "image": "https://images.pexels.com/photos/4937225/pexels-photo-4937225.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "brand": "Bershka",
+    "price": 930,
+    "rating": 5,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "Gray Suit",
+    "description": "beautiful chair for garden",
+    "category": {
+      "$oid": "64be7ef956d680d996abc2cc"
+    },
+    "countInStock": 10,
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "64db8b31660ab88b59da0958"
+    },
+    "image": "https://images.pexels.com/photos/6563657/pexels-photo-6563657.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "brand": "Pull & Bear",
+    "price": 1350,
+    "rating": 5,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "Orange Dress",
+    "description": "beautiful Swimming Pool for garden",
+    "category": {
+      "$oid": "64da9c9d446857914ea60ae9"
+    },
+    "countInStock": 10,
+    "__v": 0
+  }]
